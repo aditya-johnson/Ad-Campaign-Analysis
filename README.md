@@ -38,7 +38,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Contributors
 
-- Ishank verma(mailto:Ishank2610@gmail.com) - Data Analyst and Project Lead
+- Aditya Johnson(mailto:adityajohnsonstanley1709@gmail.com) - Data Analyst
 
 We welcome contributions and feedback from the community. If you'd like to contribute or report issues, please refer to our [Contribution Guidelines](Contribute.md).
 
